@@ -8,3 +8,4 @@ This repository contains the software created in the context of the project "NEA
 2. [Season 13 data preparation](https://github.com/TinfFoil/dar_tvseries/blob/main/season_data_preparation.ipynb): an example of how the alignment works on larger amounts of data.
 3. Preprocessing
 4. Baseline model
+5. Report
