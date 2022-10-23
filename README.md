@@ -9,3 +9,7 @@ This repository contains the software created in the context of the project "NEA
 3. Preprocessing
 4. Baseline model
 5. Report
+
+## Usage
+
+All the files are in Jupyter notebook format and can be opened directly in Google Colab or executed locally. The expected input files are specified at the beginning of each notebook. When executing the software, an input box will appear asking the user for the path of the files. It will then proceed to perform the alignment. 
