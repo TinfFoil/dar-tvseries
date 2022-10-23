@@ -4,8 +4,8 @@ This repository contains the software created in the context of the project "NEA
 
 ## Contents
 
-1. [episode_data_preparation.ipynb](https://github.com/TinfFoil/dar_tvseries/blob/main/episode_data_preparation.ipynb): description of the approach followed to align the subtitles with the corresponding segments.
-2. [season_data_preparation.ipynb](https://github.com/TinfFoil/dar_tvseries/blob/main/season_data_preparation.ipynb): an example of how the alignment works on larger amounts of data.
+1. [Episode_data_preparation.ipynb](https://github.com/TinfFoil/dar_tvseries/blob/main/episode_data_preparation.ipynb): description of the approach followed to align the subtitles with the corresponding segments.
+2. [Season_data_preparation.ipynb](https://github.com/TinfFoil/dar_tvseries/blob/main/season_data_preparation.ipynb): an example of how the alignment works on larger amounts of data.
 3. Preprocessing
 4. Baseline model
 5. Report
