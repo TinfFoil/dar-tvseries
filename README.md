@@ -1,4 +1,4 @@
-# Medical dramas analysis
+# Creating a corpus of subtitles for the analysis of mdical dramas
 
 This repository contains the software created in the context of the project *NEAD framework. A systemic approach to contemporary serial product. The medical drama case*. 
 
