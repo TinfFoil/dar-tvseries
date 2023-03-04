@@ -15,6 +15,6 @@ All files are in Jupyter notebook format and can be opened directly in Google Co
 
 ## Updates
 
-Mar 2, 2023: Fixed some issues with encoding 
+Mar 2, 2023: Fixed some issues with encoding.
 
 Mar 4, 2023:
