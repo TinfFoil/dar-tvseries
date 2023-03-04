@@ -17,4 +17,4 @@ All files are in Jupyter notebook format and can be opened directly in Google Co
 
 Mar 2, 2023: Fixed some issues with encoding.
 
-Mar 4, 2023:
+Mar 4, 2023: Added a new version of season_data_preparation.ipynb which supports unique identifiers.
